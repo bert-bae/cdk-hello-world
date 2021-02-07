@@ -1,0 +1,24 @@
+{
+  "name": "cdk-hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node ./src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bert-bae/cdk-hello-world.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bert-bae/cdk-hello-world/issues"
+  },
+  "homepage": "https://github.com/bert-bae/cdk-hello-world#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
